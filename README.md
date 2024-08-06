@@ -1,11 +1,16 @@
 
 # Linux Tools
 
-A brief description of what this project does and who it's for
+Recommended Linux Tools and Applications
+
 
 ## Tools
 
- - [Homebrew](https://brew.sh/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ - [Homebrew](https://brew.sh/) - Package manager for CLI apps
+ - [FZF](https://github.com/junegunn/fzf) - Find files easily
+ - [ATUIN](https://github.com/atuinsh/atuin) - Better terminal 
+ - [PowerTOP](https://github.com/fenrus75/powertop) - Tweak your battery life (only for laptop users)
+ - [Dust](https://github.com/bootandy/dust) - Analyze disk space usage
+ - [GRUB-REBOOT](https://github.com/mendhak/grub-reboot-picker) - Reboot on a specific OS
+ - [BTOP](https://github.com/aristocratos/btop) - A monitor of yout system resources  
+ - [Zellij ](https://github.com/zellij-org/zellij) - Tiling WM for your Linux Terminal
