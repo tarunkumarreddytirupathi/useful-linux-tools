@@ -1,4 +1,5 @@
-//<!https://readme.so/editor!>
+
+<!---(https://readme.so/editor) --->
 # Linux Tools
 
 Recommended Linux Tools and Applications
