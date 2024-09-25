@@ -15,4 +15,4 @@ Recommended Linux Tools and Applications
  - [GRUB-REBOOT](https://github.com/mendhak/grub-reboot-picker) - Reboot on a specific OS
  - [BTOP](https://github.com/aristocratos/btop) - A monitor of yout system resources  
  - [Zellij ](https://github.com/zellij-org/zellij) - Tiling WM for your Linux Terminal
- - [nightlight@Severga ]([https://github.com/zellij-org/zellij](https://cinnamon-spices.linuxmint.com/applets/view/390)) - Night light built by LInuxMint team(for cinnamon desktop)
+ - [nightlight@Severga ](https://cinnamon-spices.linuxmint.com/applets/view/390) - Night light built by LInuxMint team(for cinnamon desktop)
