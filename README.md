@@ -16,3 +16,4 @@ Recommended Linux Tools and Applications
  - [BTOP](https://github.com/aristocratos/btop) - A monitor of yout system resources  
  - [Zellij ](https://github.com/zellij-org/zellij) - Tiling WM for your Linux Terminal
  - [nightlight@Severga ](https://cinnamon-spices.linuxmint.com/applets/view/390) - Night light built by LInuxMint team(for cinnamon desktop)
+ - [Sleek ](https://github.com/ransome1/sleek) - Simple Todo Application
